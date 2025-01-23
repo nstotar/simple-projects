@@ -19,3 +19,12 @@ git commit -m "Your commit message"
 5. Push to the Remote Repository:
 git push -u origin <branch-name>
 git push -u origin main
+
+[                                                                       |]
+[                        Remove-Item -Recurse -Force .git               |]
+[                       git init                                        |]
+[                       git add .                                       |]
+[                       git commit -m "Initial commit"                  |]
+[                       git branch -M main                              |]
+[                       git status                                      |]
+[                                                                       |]
